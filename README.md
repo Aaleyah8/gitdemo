@@ -1,3 +1,3 @@
 # gitdemo
 
-This is so cool. i am practicing my git / github code
+This is so fun. i am practicing my git / github skills
